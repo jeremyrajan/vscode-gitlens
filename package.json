@@ -1568,7 +1568,7 @@
         "lodash.isequal": "4.5.0",
         "lodash.once": "4.1.1",
         "moment": "2.18.1",
-        "spawn-rx": "2.0.11",
+        "spawn-rx": "4.0.0",
         "string-width": "2.1.1",
         "tmp": "0.0.33"
     },
